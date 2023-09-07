@@ -1,0 +1,88 @@
+header {
+    background-color: rgb(245, 171, 106);
+    display: flex;
+	justify-content: space-between;
+	margin-top: 3px;
+	margin-bottom: 3px;
+}
+header img{
+    padding-left: 300px;
+    width: 60%;
+    align-content: center;
+}
+.navbar{
+    background-color: orange;
+    display: flex;
+	margin-top: 3px;
+	margin-bottom: 3px;
+    text-align: justify;
+    justify-content: space-between;
+}
+.right{
+    justify-content: right;
+}
+
+.container2{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+
+}
+ul{
+    display: flex;
+}
+li {
+    padding-left: 30px;
+    list-style: none;   
+}
+a{
+    text-decoration: none;
+}
+.logofpt{
+    width: 10%;
+}
+.logo{
+    width: 100%;
+}
+.P2{
+    display: flex;
+    justify-content:baseline;
+}
+.P2 h2{
+    padding-right: 100px;
+    padding-left: 400px;
+}
+
+.footer{
+    background-color: orange;
+}
+.checklist{
+    justify-content: center;
+    align-content: center;
+    display: flex;
+}
+.checklist1{
+    justify-content: space-between;
+	padding: 3px 3px;
+	
+}
+.checklist2{
+    justify-content: space-between;
+	padding: 3px 3px;
+    
+}
+.checklist3{
+    justify-content: space-between;
+	padding: 3px 3px;
+}
+.checkboxlist{
+	padding: 3px 3px;
+	background-color: #e8e4e3;
+    justify-content: space-between;
+	display: flex;
+}
+.order{
+	padding: 3px 3px;
+	background-color:orange;
+	color: white;
+}
